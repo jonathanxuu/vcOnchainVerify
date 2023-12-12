@@ -1,0 +1,25 @@
+{
+  "name": "vconchainverify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanxuu/vcOnchainVerify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanxuu/vcOnchainVerify/issues"
+  },
+  "homepage": "https://github.com/jonathanxuu/vcOnchainVerify#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
